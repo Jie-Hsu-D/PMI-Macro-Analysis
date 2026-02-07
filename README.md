@@ -20,7 +20,11 @@ This project analyzes five years of PMI and macroeconomic indicators to evaluate
 - Built automated visualization pipeline
 
 # Sample Visualizations
-![PMI Trend](outputs/figures/pmi_trend.png)
+![PMI Trend](data/pmi_trend.png)
+![PMI Trend with 3 and 6-Month Moving Average](data/month_moving_average.png)
+![Actual vs Predicted PMId](data/actual_vs_predicted_pmi.png)
+![Correlation_Heatmapd](data/correlation_heatmap.png)
+![PMI: Actual vs Forecastd](data/actual_vs_forecast.png)
 
 # How to Run
 - pip install -r requirements.txt
